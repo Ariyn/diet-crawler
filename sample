@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+<html>
+<head>
+<title>주간식단안내</title>
+<meta http-equiv='Content-Type' content='text/html; charset=euc-kr'>
+<link rel='stylesheet' type='text/css' href='/wwwhome/share/css/cw_style_import.css'>
+<script language='JavaScript'>
+function resizeIframe(){
+ var iframe = document.getElementById('inneriframe');
+ var wrapper = document.getElementById('wrapperIframe');
+ var height = document.getElementById('wrapperIframe').offsetHeight + 50;
+ //정확한 domain 정보를 위해 PageA의 domain 정보를 받아서 PageC의 domain 정보로 활용한다.
+ var iframeDomain = document.location.href.split('#')[1];
+ var iframeUrl = 'http://w3.changwon.ac.kr/share/resize.php?height='+height
+ iframe.src = iframeUrl;         
+}
+</script>
+</head>
+
+<body onload='resizeIframe();'>
+<div id='wrapperIframe'>
+<iframe id='inneriframe' width='10' style='display:none'></iframe>
+
+<script language='JavaScript' type='text/JavaScript'>
+function frame_init(){
+	
+	parent.reSize();
+	var locate = parent.document.location.href;
+}
+
+</script>
+<body >
+<table width='650' border='0' cellspacing='0' cellpadding='0'>
+  
+  <tr>
+    <td height='20'></td>
+  </tr>
+   <tr>
+   <td><table width='650' border='0' cellspacing='0' cellpadding='0'>
+   <tr>
+   <td width='205' height='35' valign='top'><img src='../../img/05_facilities/title07_02.gif' width='205' height='20'></td>
+   <td width='445' align='right' valign='bottom'>식당 이용문의: 영양사 <!-- 김효진 --> ( ☏ 213-4727 )</td>
+   </tr>  </table></td>
+  </tr>
+  <tr>
+  <td height='10'></td>
+  </tr>
+  <tr>
+  <td> 기간 2016 년 10 월 17 일에서  2016 년 10 월 22 일까지  </td>
+  </tr>
+  <tr>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+  <td><table border='1' cellpadding='6' cellspacing='0' bordercolor='#dcdcdc' frame='hsides' rules='rows, colls' style='border-top-color:#c3cddc; border-bottom-color:#c3cddc; border-collapse:collapse;'>
+  <tr >
+  <td width='74' height='25' align='center' bgcolor='#EAEDF2' class='bold' >식당</td>
+  <td width='98' align='center' bgcolor='#EAEDF2' class='bold'>월</td>
+  <td width='98' align='center' bgcolor='#EAEDF2' class='bold'>화</td>
+  <td width='98' align='center' bgcolor='#EAEDF2' class='bold'>수</td>
+  <td width='98' align='center' bgcolor='#EAEDF2' class='bold'>목</td>
+  <td width='98' align='center' bgcolor='#EAEDF2' class='bold'>금</td>
+  </tr>
+  <tr>
+   <tr><td height=100  bgcolor='#F5F8FA' align=center><b><font color=#5776aa>양식</font></b><br>(11:30~14:30/17:00~18:30)</td>
+   <td  class='pad4' valign=top  width='17%'> 뚝배기불고기⑤⑥<br>
+</td> 
+   <td class='pad4' valign=top width='17%'>튀김닭카레뚝배기⑤⑥<br>
+</td>
+   <td class='pad4'  valign=top width='17%'>불고기백반⑤⑥⑩<br>
+</td>  
+   <td class='pad4' valign=top width='17%'>간장찜닭⑤⑥<br>
+</td> 
+   <td class='pad4' valign=top width='17%'>부대찌개&라면사리①⑥⑨⑩<br>
+</td> 
+   <tr><td height=100  bgcolor='#F5F8FA' align=center><b><font color=#5776aa>한식</font></b><br>(11:30~14:30/17:00~18:30)</td>
+   <td  class='pad4' valign=top  width='17%'> 돈육치즈덮밥②⑤⑥⑩<br>
+</td> 
+   <td class='pad4' valign=top width='17%'>돈까스&요구르트①⑤⑥⑩⑫<br>
+</td>
+   <td class='pad4'  valign=top width='17%'>치킨치즈까스&요구르트①②⑤⑥⑫<br>
+</td>  
+   <td class='pad4' valign=top width='17%'>카레돈까스&요구르트①⑤⑥⑩⑫<br>
+</td> 
+   <td class='pad4' valign=top width='17%'>콩나물닭갈비덮밥②⑤⑥<br>
+</td> 
+   <tr><td height=100  bgcolor='#F5F8FA' align=center><b><font color=#5776aa>정식</font></b><br>(11:30~14:30/17:00~18:30)</td>
+   <td  class='pad4' valign=top  width='17%'> [중식]<br>
+김치콩나물국⑨<br>
+비빔만두⑤⑥<br>
+미역줄기볶음<br>
+김치⑨<br>
+[석식]<br>
+콩가루배추국<br>
+느타리맛살볶음①<br>
+브로컬리초장⑥<br>
+김치⑨<br>
+</td> 
+   <td class='pad4' valign=top width='17%'>[중식]<br>
+콩비지찌개<br>
+햄감자조림⑤⑥⑩<br>
+천사채샐러드①⑤⑥<br>
+김치⑨<br>
+[석식]<br>
+북어계란국①⑤⑥<br>
+어묵야채볶음①⑤⑥<br>
+청경채생채<br>
+김치⑨<br>
+</td>
+   <td class='pad4'  valign=top width='17%'>[중식]<br>
+쇠고기미역국<br>
+자장소스⑤⑥⑩<br>
+무생채<br>
+김치⑨<br>
+[석식]<br>
+배추된장국⑤⑥<br>
+동태무조림①⑤⑥<br>
+양배추다시마쌈<br>
+김치⑨<br>
+</td>  
+   <td class='pad4' valign=top width='17%'>[중식]<br>
+감자고추장찌개⑤⑥<br>
+두부쑥갓무침<br>
+오이숙주나물<br>
+김치⑨<br>
+[석식]<br>
+들꺠무국<br>
+잡채⑤⑥<br>
+열무나물<br>
+김치⑨<br>
+</td> 
+   <td class='pad4' valign=top width='17%'>[중식]<br>
+유부무국⑤⑥<br>
+오징어야채튀김①⑤⑥<br>
+마카로니샐러드①⑤⑥<br>
+김치⑨<br>
+[석식]<br>
+아욱된장국⑤⑥<br>
+스크램블에그①<br>
+깻잎지⑤⑥<br>
+김치⑨<br>
+</td> 
+   <tr><td height=100  bgcolor='#F5F8FA' align=center><b><font color=#5776aa>분식(라면)</font></b><br>(11:30~14:30/17:00~18:30)</td>
+   <td  class='pad4' valign=top  width='17%'> 해장라면&공기밥①⑤⑥⑩<br>
+만두라면&공기밥①⑤⑥⑩</td> 
+   <td class='pad4' valign=top width='17%'>해장라면&공기밥①⑤⑥⑩<br>
+만두라면&공기밥①⑤⑥⑩</td>
+   <td class='pad4'  valign=top width='17%'>크림스파게티&요구르트②⑥⑩<br>
+</td>  
+   <td class='pad4' valign=top width='17%'>해장라면&공기밥①⑤⑥⑩<br>
+만두라면&공기밥①⑤⑥⑩</td> 
+   <td class='pad4' valign=top width='17%'>해장라면&공기밥①⑤⑥⑩<br>
+만두라면&공기밥①⑤⑥⑩</td> 
+  </tr>
+  </table></td>
+  </tr>
+  <tr>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class='blue'>※위 메뉴는 식자재 수불사정에 의해 변경될 수 있으니 양해하여 주시기 바랍니다.</td>
+  </tr>
+  <tr>
+    <td class='blue'>
+      ※알레르기 정보-  알레르기는 개인 체질 등에 따라 발생하는 식품이 다를수 있으니<br />
+      &nbsp;&nbsp;&nbsp;해당여부를 꼭 확인하여 주시기 바랍니다.<br /> 
+      &nbsp;&nbsp;&nbsp;①난류 ②우유 ③메밀 ④땅콩 ⑤대두 ⑥밀 ⑦고등어 ⑧게 ⑨새우 ⑩돈육 ⑪복숭아 ⑫토마토
+    </td>
+  </tr>
+   
+  <tr>
+  <td class='blue'>※식당이용에 대한 불편한 점이나 의문사항이 있으면 영양사 <!-- 조보배 --> (213-4727) 연락하시기 바랍니다 </td>
+  </tr>  
+  <tr>
+  <td>&nbsp;</td>
+  </tr>
+  
+  <!--
+  <tr>
+  <td height='25' valign='top'   class='bold'>&nbsp;&nbsp;세계보건기구(WHO)의 식품조리 10대 원칙 </td>
+  </tr>
+  -->
+  
+  <!--
+  <tr>
+  <td class='pad1'>
+      
+   .     </td>
+  </tr>
+  -->
+  <tr>
+    <td height='50'></td>
+  </tr>
+</table>
+   
+   </div>
+</body>
+</html> 
+
+
+
